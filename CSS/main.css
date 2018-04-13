@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ .begin {
+   width: 100%;
+  display: inline-flex;
+  padding: 15px 55px;
+  }
+  .begin form {
+    padding-left: 815px;
+  }
+
+
+.begin p {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #464646;
+}
+
+#pic {
+  text-align: center;
+}
+#pic img {
+  border-radius: 100%;
+  height: 70px;
+  width: 70px;
+}
+#pic h5{
+  color: #00052;
+  font-weight: 100;
+  font-size: 18px;
+  padding-top: 5px;
+
+}
+.title {
+  text-align: center;
+  color: #242424;
+  font-size: 30px;
+}
+.date {
+  text-align: center;
+  color: #5F5F5F;
+  font-size:22px;
+}
+.date hr {
+  width: 90px;
+  margin: 50px auto;
+  border-color: #C79852;
+}
+.text {
+  padding-left: 280px;
+  font-size: 18px;
+  color: #565656;
+  line-height: 1.6;
+}
+.chair {
+  height: 399px;
+  width: 841px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.one {
+padding-left: 260px;
+padding-top: 50px;
+line-height: 1.6;
+color: #565656;
+font-size: 18px;
+}
+.quote {
+  text-align: center;
+  padding-top: 22px;
+  font-size: 30px;
+  font-family: Arial, cursive;
+  color: #7F7F7F;
+}
+.two {
+  padding-left: 260px;
+  line-height: 1.6;
+  color: #565656;
+  font-size: 18px;
+  padding-top: 20px;
+}
+.chairs {
+   width: 800px;
+  height: 419px;
+  position: relative;
+  display: inline-flex;
+  float: left;
+  padding-left: 200px;
+  padding-top: 25px;
+
+}
+ul.bottom {
+  text-decoration: none;
+  list-style: none;
+  padding-left: 5px;
+}
+.moretxt {
+  display: inline-block;
+  padding-top: 25px;
+  padding-left: 260px;
+  line-height: 1.6;
+  color: #565656;
+  font-size: 18px;
+}
+.end {
+ border-color: #C79852;
+ margin-top: 40px;
+ width: 10%;
+ margin-left: 42%;
+}
+.break p {
+  padding-top: 25px;
+  padding-left: 560px;
+  color:  #565656;
+}
+.break i {
+  color: #E04F4A
+}
+.box {
+padding-top: 25px;
+  padding-left: 23%;
+}
+.box p {
+  font-size: 14px;
+  color: #565656;
+  word-spacing: 5px;
+
+}
+.box span {
+  padding-left: 400px;
+  word-spacing: 5px
+
+}
+.articles {
+  background-color: #F8F9FD;
+  height: 150px;
+  text-align: center;
+
+
+}
+.okay li {
+  display: inline-block;
+  padding-top: 50px;
+  line-height: 1.8
+
+}
+.okay a {
+  color: #434345;
+  text-decoration: none;
+}
